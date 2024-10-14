@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade04_01</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="day">Dia</string>
+    <string name="month">Mês</string>
+    <string name="year">Ano</string>
+    <string name="result">Resultado:</string>
+    <string name="calculate">Calcular</string>
+</resources>
